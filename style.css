@@ -1,0 +1,17 @@
+body {
+    background-color: teal;
+}
+#pink {
+    background-color:  rgba(255, 192, 203, 0.621);
+    font-weight: 900;
+    color: rgba(122, 9, 13, 0.826);
+}
+h4 {
+    margin-left: 10px;
+}
+textarea { 
+    height: 90px; 
+}
+img {
+    width: 45%;
+}
